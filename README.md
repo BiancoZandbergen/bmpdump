@@ -7,7 +7,7 @@ used to convert images for display on small LCD/OLED screens driven by a
 microcontroller.
 
 Currently supported formats:
-1. raw (8, 12, 16, 24 bits)
+1. raw (8, 12, 16, 24 bits)  
 2. C array (8, 12, 16, 24 bits)
 
 Usage instructions: see 'bmpdump -help'
