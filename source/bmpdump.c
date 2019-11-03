@@ -1,4 +1,14 @@
-/* bmpdump is an utility to convert a 24 bit uncompressed BMP image
+/* bmpdump by Bianco Zandbergen
+ *
+ * To the extent possible under law, the person who associated CC0 with
+ * bmpdump has waived all copyright and related or neighboring rights
+ * to bmpdump.
+ *
+ * You should have received a copy of the CC0 legalcode along with this
+ * work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
+ *
+ *
+ * bmpdump is an utility to convert a 24 bit uncompressed BMP image
  * to other formats.
  * 
  * Currently supported formats:
